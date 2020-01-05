@@ -1,0 +1,28 @@
+{
+  "rows": [
+    {
+      "ID": 1,
+      "Name": "Serge",
+      "Position": "Boss",
+      "Office": "Home Office",
+      "Age": 45,
+      "Salary": 170000
+    },
+    {
+      "ID": 2,
+      "Name": "John",
+      "Position": "Manager",
+      "Office": "New",
+      "Age": 22,
+      "Salary": 110000
+    },
+    {
+      "ID": 3,
+      "Name": "Amit",
+      "Position": "BA",
+      "Office": "Old office",
+      "Age": 33,
+      "Salary": 90000
+    }
+  ]
+}
